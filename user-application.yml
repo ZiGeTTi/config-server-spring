@@ -1,0 +1,12 @@
+server:
+  port: 9092
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://root:example@localhost:27017
+      host: localhost
+      port: 27017
+      username: root
+      password: example
+      database: UserProfileDB
