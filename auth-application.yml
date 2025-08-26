@@ -1,5 +1,5 @@
 server:
-  port: 9091
+  port: 9095
 
 spring:
     datasource:
@@ -11,3 +11,4 @@ spring:
       hibernate:
         ddl-auto: update
       show-sql: true
+
