@@ -10,3 +10,6 @@ spring:
       username: root
       password: example
       database: UserProfileDB
+  redis:
+      host: localhost
+      port: 6379
